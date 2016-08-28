@@ -19,3 +19,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+
+I Wass add  [JSON Web Token Authentication](https://github.com/tymondesigns/jwt-auth).
+
+php artisan ready for jwt:secret        Set the JWTAuth secret key used to sign the tokens
