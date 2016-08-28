@@ -1,0 +1,4 @@
+/vendor
+.env
+/resources/privateKey.key
+/resources/CSR.csr
