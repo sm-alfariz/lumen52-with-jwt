@@ -1,5 +1,5 @@
 {
-    "name": "laravel/lumen",
+    "name": "sm-alfariz/lumen52-with-jwt",
     "description": "Lumen micro-framework by Laravel with jwt integration ready and free for use ",
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
