@@ -2,6 +2,8 @@
 
 #Instalation
 composer create-project --prefer-dist sm-alfariz/lumen52-with-jwt project-dir
+or by clone git
+git clone https://github.com/sm-alfariz/lumen52-with-jwt.git
 
 I Wass add  [JSON Web Token Authentication](https://github.com/tymondesigns/jwt-auth).
 
